@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  crudapi:
+    image: ${DOCKER_REGISTRY-}crudapi
+    build:
+      context: .
+      dockerfile: ./Dockerfile
