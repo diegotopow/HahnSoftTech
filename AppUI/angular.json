@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/angular-appp",
+            "outputPath": "dist/appui",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -72,7 +72,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "AngularAppp:build"
+            "browserTarget": "AppUI:build"
           }
         },
         "test": {
