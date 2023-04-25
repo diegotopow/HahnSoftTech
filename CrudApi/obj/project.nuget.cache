@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CHXZuW6i6XHAh7T7PyVzBBJ9Ku+SRzWa9DNW2nDMO6XaoS7KEUb2gPkY57ipiEcHqzQm66rFeEIaC+H4uOjHYw==",
+  "dgSpecHash": "9hqshDyRNX5EHEdbrZ/el1HsDeRqaVYmJX0oD2M0dXd190yUB1rIIS5JwzKnGVV7XKJxAJ0aPG/f7VnjBd1rAQ==",
   "success": true,
-  "projectFilePath": "/Users/diegolopes/Downloads/crud-webapi-angular/CrudApi/CrudApi.csproj",
+  "projectFilePath": "/Users/diegolopes/Downloads/HahnSoftTech/CrudApi/CrudApi.csproj",
   "expectedPackageFiles": [
     "/Users/diegolopes/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/diegolopes/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

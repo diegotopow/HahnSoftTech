@@ -4126,11 +4126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diegolopes/Downloads/crud-webapi-angular/CrudApi/CrudApi.csproj",
+      "projectUniqueName": "/Users/diegolopes/Downloads/HahnSoftTech/CrudApi/CrudApi.csproj",
       "projectName": "CrudApi",
-      "projectPath": "/Users/diegolopes/Downloads/crud-webapi-angular/CrudApi/CrudApi.csproj",
+      "projectPath": "/Users/diegolopes/Downloads/HahnSoftTech/CrudApi/CrudApi.csproj",
       "packagesPath": "/Users/diegolopes/.nuget/packages/",
-      "outputPath": "/Users/diegolopes/Downloads/crud-webapi-angular/CrudApi/obj/",
+      "outputPath": "/Users/diegolopes/Downloads/HahnSoftTech/CrudApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/diegolopes/.nuget/NuGet/NuGet.Config"
